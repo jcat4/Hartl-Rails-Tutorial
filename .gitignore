@@ -99,3 +99,6 @@ API
 Training
 Blog
 About
+
+# Ignore Spring files.
+/spring/*.pid
