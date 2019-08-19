@@ -87,18 +87,9 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+# Ignore vscode junk
+.vscode
 
 # Ignore Spring files.
 /spring/*.pid
