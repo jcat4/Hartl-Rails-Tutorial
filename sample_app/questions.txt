@@ -1,0 +1,1 @@
+- Session seems to always be created on page load, even when I don't log in... Is that right?
